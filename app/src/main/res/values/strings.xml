@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="true_button_text">TRUE</string>
+    <string name="flase_button_text">FALSE</string>
+    <string name="prev_button_text">PREV</string>
+    <string name="next_button_text">NEXT</string>
+    <string name="image_description">A droid icon image</string>
+
+    <string name="question_independence_year">India gained independence in 1947.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+
+    <string name="question_constitution">The Supreme law of India is the Constitution.</string>
+
+
+    <string name="question_amendments">The Indian Constitution has 105 Amendments.</string>
+
+
+    <string name="question_languages">India has only one official language, Hindi.</string>
+
+
+    <string name="question_religion">Freedom of religion in India means:
+    \n \t <b>People can practice any religion, or not practice a religion</b>.</string>
+
+
+    <string name="question_government">The President of India is the head of the government.</string>
+
+
+    <string name="question_parliament">The Parliament of India consists of two houses: Lok Sabha and Rajya Sabha.</string>
+
+
+    <string name="question_states">India has 28 states and 8 Union Territories.</string>
+
+
+
+
+</resources>
